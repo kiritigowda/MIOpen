@@ -185,7 +185,6 @@ set( MIOpen_Source
     include/miopen/rnn_util.hpp
     include/miopen/bz2.hpp
     include/miopen/comgr.hpp
-    include/miopen/numeric.hpp
     include/miopen/reducetensor.hpp
     include/miopen/reduce_common.hpp
     include/miopen/sequences.hpp
